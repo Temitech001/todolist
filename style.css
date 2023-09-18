@@ -9,6 +9,7 @@
   min-height: 100vh;
   background: linear-gradient(135deg, #153677, #4e086f);
   padding: 10px;
+  max-width: 80%;
 }
 
 body {
